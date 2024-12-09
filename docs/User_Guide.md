@@ -45,4 +45,6 @@ API Errors: If the app cannot fetch data, check your internet connection or API 
 
 # Screenshots
 <img width="400" alt="Calorie Calculator" src="https://github.com/user-attachments/assets/d53e0729-8ec5-4169-a0a4-b55efceb697e">
+<img width="438" alt="Input Details" src="https://github.com/user-attachments/assets/3042d22a-50d3-42b8-8540-2ee76da140a6">
+<img width="272" alt="input" src="https://github.com/user-attachments/assets/47cedfa3-432b-4993-9aae-28856d522e3d">
 
