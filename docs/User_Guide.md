@@ -8,20 +8,18 @@ Ensure you have Python 3.9 or higher installed. Download Python from python.org.
 - Install Required Libraries
 Open a terminal and run the following command to install the dependencies:
 
-bash
 pip install tkinter pandas rapidfuzz requests
 
 - Run the Application
 Save the provided code in a file named calorie_app.py and run it using:
 
-bash
 python calorie_app.py
 
 # Usage Instructions
 - Calculate BMR and Daily Calorie Needs
 Click the "Calculate BMR & Daily Calories" button.
 Input your age, gender, weight, height, and activity level.
-The app calculates your Basal Metabolic Rate (BMR) and daily calorie needs.
+The app calculates your BMR and daily calorie needs.
 
 - Log Meals
 Click the corresponding meal button (Breakfast, Lunch, Dinner, or Snack).
