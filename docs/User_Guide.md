@@ -44,5 +44,5 @@ Invalid Input: Ensure you input valid numeric values in the sliders and dialog b
 API Errors: If the app cannot fetch data, check your internet connection or API key.
 
 # Screenshots
-(Add screenshots showing different app states, such as the main window, BMR calculation, and meal logging.)
+<img width="400" alt="Calorie Calculator" src="https://github.com/user-attachments/assets/d53e0729-8ec5-4169-a0a4-b55efceb697e">
 
